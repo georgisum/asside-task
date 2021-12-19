@@ -27,10 +27,12 @@ html {
   font-size: 10rem;
   flex-flow: column;
 
-  .container {
-    display: flex;
-    .sidebar {
-      width: 280px;
-    }
-  }
+}
+
+.container {
+  display: flex;
+}
+
+.sidebar {
+  width: 280px;
 }
